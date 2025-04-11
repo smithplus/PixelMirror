@@ -11,7 +11,7 @@ No necesitas instalar nada más, la aplicación instalará automáticamente toda
 
 ## Instalación
 
-1. Descarga la última versión de Pixel Mirror desde la sección [Releases](https://github.com/tu-usuario/pixel-mirror/releases/latest)
+1. Descarga la última versión de Pixel Mirror desde [Releases](https://github.com/smithplus/PixelMirror/releases)
 2. Descomprime el archivo descargado
 3. Arrastra `PixelMirror.app` a tu carpeta de Aplicaciones
 
@@ -103,6 +103,10 @@ Si deseas desinstalar la aplicación:
 ## Contribuir
 
 Si encuentras algún bug o tienes sugerencias, por favor:
-1. Abre un issue en este repositorio
+1. Abre un [issue](https://github.com/smithplus/PixelMirror/issues) en este repositorio
 2. Describe el problema o mejora
-3. Si es posible, incluye los logs y pasos para reproducir el problema 
+3. Si es posible, incluye los logs y pasos para reproducir el problema
+
+## Licencia
+
+Este proyecto está bajo la licencia MIT. Ver el archivo [LICENSE](LICENSE) para más detalles. 
