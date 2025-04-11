@@ -11,4 +11,6 @@ y este proyecto adhiere a [Semantic Versioning](https://semver.org/spec/v2.0.0.h
 - Inicialización del proyecto
 - Estructura básica del repositorio
 - Configuración inicial de Git
-- Archivo .gitignore para Python 
+- Archivo .gitignore para Python
+- Versión compilada de la aplicación (PixelMirror.app)
+- Archivo ZIP para distribución (PixelMirror-v1.0.0.zip) 
